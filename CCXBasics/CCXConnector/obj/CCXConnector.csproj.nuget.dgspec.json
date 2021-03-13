@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXConnector\\CCXConnector.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj",
+        "projectName": "CCXBasics.cisco",
+        "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj",
+        "packagesPath": "C:\\Users\\Amresh Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amresh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj": {
+                "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj"
+              },
+              "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj": {
+                "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "S22.Xmpp": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj",
+        "projectName": "CCXCommonServices",
+        "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj",
+        "packagesPath": "C:\\Users\\Amresh Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amresh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXConnector\\CCXConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXConnector\\CCXConnector.csproj",
+        "projectName": "CCXConnector",
+        "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXConnector\\CCXConnector.csproj",
+        "packagesPath": "C:\\Users\\Amresh Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amresh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj": {
+                "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj",
+        "projectName": "CCXModels.domain",
+        "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj",
+        "packagesPath": "C:\\Users\\Amresh Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amresh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

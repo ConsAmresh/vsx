@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "S22.Xmpp/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/S22.Xmpp.dll": {}
+        },
+        "runtime": {
+          "lib/net45/S22.Xmpp.dll": {}
+        }
+      },
+      "CCXCommonServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CCXCommonServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CCXCommonServices.dll": {}
+        }
+      },
+      "CCXModels.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CCXModels.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CCXModels.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S22.Xmpp/1.0.0": {
+      "sha512": "Wh2jctIcvP8AL2eUGIbuy9k4Owl4z+ZrC2HNk55J4ZYCETx48oncSsY7wNSiF9TxG0ETkVkfrAkipKMe+BVAjw==",
+      "type": "package",
+      "path": "s22.xmpp/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/S22.Xmpp.XML",
+        "lib/net45/S22.Xmpp.dll",
+        "s22.xmpp.1.0.0.nupkg.sha512",
+        "s22.xmpp.nuspec"
+      ]
+    },
+    "CCXCommonServices/1.0.0": {
+      "type": "project",
+      "path": "../CCXCommonServices/CCXCommonServices.csproj",
+      "msbuildProject": "../CCXCommonServices/CCXCommonServices.csproj"
+    },
+    "CCXModels.domain/1.0.0": {
+      "type": "project",
+      "path": "../CCXModels/CCXModels.domain.csproj",
+      "msbuildProject": "../CCXModels/CCXModels.domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CCXCommonServices >= 1.0.0",
+      "CCXModels.domain >= 1.0.0",
+      "S22.Xmpp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Amresh Kumar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj",
+      "projectName": "CCXBasics.cisco",
+      "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\CCXBasics.cisco.csproj",
+      "packagesPath": "C:\\Users\\Amresh Kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXBasics\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Amresh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj": {
+              "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXCommonServices\\CCXCommonServices.csproj"
+            },
+            "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj": {
+              "projectPath": "C:\\Personal\\MyPBX\\Connect\\CCXBasics\\CCXModels\\CCXModels.domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "S22.Xmpp": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'S22.Xmpp 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "S22.Xmpp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

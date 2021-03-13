@@ -1,0 +1,9 @@
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\bin\Debug\netcoreapp3.1\CCXModels.domain.deps.json
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\bin\Debug\netcoreapp3.1\CCXModels.domain.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\bin\Debug\netcoreapp3.1\CCXModels.domain.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.AssemblyInfoInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.AssemblyInfo.cs
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.csproj.CoreCompileInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXModels\obj\Debug\netcoreapp3.1\CCXModels.domain.csprojAssemblyReference.cache

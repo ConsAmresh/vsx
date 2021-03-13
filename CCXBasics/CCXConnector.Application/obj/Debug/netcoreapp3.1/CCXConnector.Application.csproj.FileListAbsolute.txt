@@ -1,0 +1,9 @@
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\bin\Debug\netcoreapp3.1\CCXConnector.Application.deps.json
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\bin\Debug\netcoreapp3.1\CCXConnector.Application.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\bin\Debug\netcoreapp3.1\CCXConnector.Application.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.AssemblyInfoInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.AssemblyInfo.cs
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.csproj.CoreCompileInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXConnector.Application\obj\Debug\netcoreapp3.1\CCXConnector.Application.csprojAssemblyReference.cache

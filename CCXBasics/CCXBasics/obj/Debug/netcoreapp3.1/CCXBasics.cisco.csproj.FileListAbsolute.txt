@@ -1,0 +1,14 @@
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXBasics.cisco.deps.json
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXBasics.cisco.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXBasics.cisco.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXCommonServices.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXModels.domain.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXCommonServices.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\bin\Debug\netcoreapp3.1\CCXModels.domain.pdb
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.csprojAssemblyReference.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.AssemblyInfoInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.AssemblyInfo.cs
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.csproj.CoreCompileInputs.cache
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.csproj.CopyComplete
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.dll
+C:\Personal\MyPBX\Connect\CCXBasics\CCXBasics\obj\Debug\netcoreapp3.1\CCXBasics.cisco.pdb

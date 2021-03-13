@@ -1,0 +1,44 @@
+﻿
+@page
+@model CCXConnector.UI.Pages.LoginModel
+@{ 
+}
+
+<form method="post">
+    <div class="table">
+        <div class="modal-header">
+            Login
+        </div>
+        <div class="row">
+            <div class="form-group col-12">
+                Login ID
+                <span class="input-group">
+                    <input type="text" asp-for="UserAccount.LoginId" class="input-group" id="txtLoginId" />
+                    <span asp-validation-for="UserAccount.LoginId"></span>
+                </span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-12">
+                Password
+                <span class="input-group">
+                    <input type="password" asp-for="UserAccount.Password" class="input-group" id="txtPassword" />
+                    <span asp-validation-for="UserAccount.Password"></span>
+                </span>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="form-group col-12">
+                <span class="input-group">
+                    <input type="submit" class="btn-info" id="btnLogin" value="Login" /> &nbsp; &nbsp;
+                    <input type="button" class="btn-info" id="btnReset" value="Reset" />
+                </span>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <a href="#" class="btn-link">Forgot Password?</a>
+        </div>
+    </div>
+</form>
